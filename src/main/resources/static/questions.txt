@@ -1,0 +1,83 @@
+1. Vysvětlete, čím se zabývá teorie her, zařaďte ji mezi matematické disciplíny, uveďte alespoň tři aplikační oblasti teorie her.
+2. Vysvětlete, v čem spočívá Petrohradský paradox.
+3. Vysvětlete pojem rozhodovací situace z pohledu teorie her, definujte hru jako matematický objekt (nejlépe na vhodném příkladu).
+4. Uveďte klasifikaci her včetně příkladů her, spadajících do jednotlivých kategorií.
+5. Vysvětlete pojem užitek z pohledu teorie her. Uveďte příklady situací, kdy lze a kdy nelze užitek číselně vyjádřit. Vysvětlete pojmy kardinální a ordinální užitek, uveďte jejich příklady.
+6. Vysvětlete rozdíl mezi inteligentním, neinteligentním a p-inteligentním hráčem.
+7. Vysvětlete rozdíl mezi rozhodováním za jistoty, za nejistoty a při riziku.
+8. Vysvětlete pojmy strategie, dominující strategie, dominovaná strategie, čistá strategie, smíšená strategie, uveďte příklady.
+9. Popište reprezentaci hry v explicitním tvaru a normálním tvaru, uveďte vhodné příklady.
+10. Popište vězňovo dilema a jeho řešení za použití reprezentace hry v normálním tvaru.
+11. Popište hru Stonožka a její řešení za použití reprezentace hry stromem.
+12. Popište hru Nim a její řešení za použití reprezentace hry stromem.
+13. Vysvětlete význam her šachy a go pro rozvoj umělé inteligence jako vědní disciplíny.
+14. Na vhodném příkladu vysvětlete postupnou eliminaci dominovaných strategií.
+15. Vysvětlete, v čem spočívá převod hry s konstantním součtem na hru s nulovým součtem.
+16. Definujte pojem Nashova rovnováha a vysvětlete jej na příkladu.
+17. Vysvětlete princip minimaxu ve hře s nulovým součtem.
+18. Vysvětlete pojem sedlový bod ve vztahu k herní matici, uveďte příklad.
+19. Popište hru Morra a její řešení za použití reprezentace hry v normálním tvaru.
+20. Vysvětlete využití střední hodnoty při rozhodování za rizika.
+21. Popište použití principu minimaxu, principu minimaxu ztráty, principu optimismu racionálního hráče a Laplaceova principu při rozhodování za neurčitosti.
+22. Popište hru s úplnou a s neúplnou informací, dokonalou a nedokonalou informací, soukromoou a společnou informací, uvádějte příklady.
+23. Popište statickou a dynamickou Bayesovskou hru, uveďte příklady odpovídajících her či situací.
+24. Vysvětlete, v čem spočívá šerifovo dilema a jak se hra řeší.
+25. Vysvětete pojem signální hra.
+26. Vysvětlete pojem reverzní teorie her, jmenujete příklady mechanismů, které do ní spadají.
+27. Vysvětlete pojem aukce a účel použití aukcí.
+28. Uveďte klasifikaci aukcí.
+29. Popište alespoň tři typy aukcí.
+30. Vysvětlete pojem dolarová akce a související pradox.
+31. Vysvětlete rozdíl mezi soukromým, sdíleným a korelovaným ohodnocením statku, uveďte příklady.
+32. Vysvětlete pojem kombinatorická aukce.
+33. Vysvětlete, proč je hledání vítěze kombinatorické aukce výpočetně náročné a jak lze výpočetní náročnost řešit.
+34. Vysvětlete, v čem spočívá problém stabilního párování, uveďte příklady situací nebo aplikací.
+35. Popište problém svatebního trhu a možnosti řešení.
+36. Popište algoritmus odloženého přijetí (Gale-Shapleyův algoritmus).
+37. Vysvělete pojmy stabilita přiřazení a strategická odolnost ve vztahu k problému párování.
+38. Popište problém výměny domů a Top Trading Cycle algoritmus.
+39. Vysvětlete pojmy kooperativní hra a společná strategie dvou hráčů, uveďte příklad.
+40. Popište možnosti dělení výhry v kooperativní hře.
+41. Vysvětlete pojem koalice ve vztahu ke kooperativní hře N hráčů.
+42. Vysvětlete pojmy hlasovací hra, hlasovací pravidlo, většinová koalice, menšinová koalice.
+43. Vysvětlete pojem charakteristická funkce (ve spojitosti s kooperativní hrou).
+44. Vysvěltete pojem jádro hry ve vztahu ke kooperativní hře.
+45. Vysvětlete pojem Shapleyova hodnota ve vztahu ke kooperativní hře.
+46. Vysvětelte, v čem se liší politické a nepolitické teorie formování koalic.
+47. Vysvětlete pojmy volební systém a hlasování.
+48. Popište strategické a nestrategické metody hlasování.
+49. Vysvětlete Condorcetův paradox.
+50. Vysvětlete pojem citlivost volební metody na odstranění kandidáta a  citlivost volební metody na volbu párů.
+51. Vysvětlete, v čem spočívá problém spravedlivého dělení, uveďte příklady situací nebo aplikací.
+52. Vysvětlete rozdíl mezi subjektivním a objektivním pohledem na spravedlivé dělení a rozdíl mezi propordcionálním dělením a dělením bez závisti.
+53. Vysvětlete metodu "cut and choose".
+54. Vysvětlete algoritmus Moving Knife.
+55. Vysvěltete problém obecní pastviny.
+56. Popište úvahu a závěry G.Hardina o problému obecní pastviny.
+57. Vysvětlete rozdíly mezi klasickou, evoluční a behaviorální teorieí her.
+58. Vysvětlete princip evoluční teorie her, uveďte hlavní pojmy.
+59. Vysvělete pojem evolučně stabilní strategie, uveďte příklad.
+60. Popište hru jestřáb a hrdlička.
+61. Popište roli teorie her ve výzkumu dopravních problémů.
+62. Popište rozdíl mezi Nashovým řešením a sociálním optimem (ve vztahu k dopravě).
+63. Vysvětlete Downs-Thomsonův paradox (ve vztahu k dopravě).
+64. Vysvětelte Braessův paradox (ve vztahu k silniční síti).
+65. Vyvětlete vztah mezi teorií her a umělou inteligencí.
+66. Vyvětlete pojem agent, systém agentů (v umělé inteligenci).
+67. Popište, jak se teorie her uplatňuje v umělých neuronových sítích
+68. Vysvětelte hru na konsenzus a její možné aplikace v oblasti umělé inteligence.
+1. Reprezentace slovně zadané hry stromem či maticí.
+2. Převod hry s konstantním součtem na hru s nulovým součtem.
+3. Hledání sedlových bodů ve hře zadané maticí.
+4. Hledání rovnovážného řešení ve hře 2 hráčů při nekonstantním součtu.
+5. Výpočet smíšených strategií ve hře 2 hráčů bez sedlového bodu.
+6. Řešení kooperativní hry 2 hráčů.
+7. Dělení výhry v kooperativní hře 2 hráčů (přenosná, nepřenosná výhra).
+8. Hledání rovnováhy ve hře s neúplnou informací.
+9. Určení očekávané výhry při rozhodování za rizika.
+10. Určení optimální strategie při rozhodování za rizika.
+11. Použití principu minimaxu při rozhodování za neurčitosti.
+12. Použití principu minimaxu ztráty při rozhodování za neurčitosti.
+13. Použití principu optimismu racionálního hráče při rozhodování za neurčitosti.
+14. Použití Laplaceova principu při rozhodování za neurčitosti.
+15. Určení vítěze hlasování zadanou metodou (většinová, Condorcetova, Bordov
