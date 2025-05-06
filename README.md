@@ -1,11 +1,11 @@
 Created for better practice, the questions are answered in the PDF but I do not guarantee it is correct.
 
 # Steps
-Download the target -> OS2_Zkouska_Interactive.jar file
+Download the target -> TH_Zkouska_Interactive.jar file
 
 Open terminal in the download destination folder
 
-Type java -jar OS2_Zkouska_Interactive.jar
+Type java -jar TH_Zkouska_Interactive.jar
 
 Open web browser
 
